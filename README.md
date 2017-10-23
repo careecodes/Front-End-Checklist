@@ -2,9 +2,7 @@
 [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg)](https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-The **Front-End Checklist** is an exhaustive list of all elements you need to have / to test before launching your site / page HTML to production.
-
-It is based on Front-End developers' years of experience, with the additions coming from some other open-source checklists.
+The **Front-End Checklist** is an exhaustive list of all elements you need to have / to test before launching your site / page HTML to production. It is based on Front-End developers' years of experience, with the additions coming from some other open-source checklists.
 
 ## Table of Contents
 
